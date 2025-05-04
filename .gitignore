@@ -1,0 +1,28 @@
+# WordPress specific
+wp-content/themes/
+wp-content/upgrade/
+wp-content/uploads/
+wp-content/cache/
+
+# WordPress configuration
+wp-config.php
+
+# Log files
+*.log
+error_log
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor directories and files
+.idea
+.vscode
+*.swp
+*.swo
+
